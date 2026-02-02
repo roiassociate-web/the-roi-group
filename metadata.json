@@ -1,0 +1,8 @@
+{
+  "name": "더로이그룹-기업강사 제안서 과정",
+  "description": "Professional landing page and admin CMS for The ROI Group's corporate instructor training programs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
